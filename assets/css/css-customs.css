@@ -7,6 +7,9 @@
 	font-stretch: normal;
 }
 
+* {
+	text-align: justify !important;
+}
 body {
 	width: 100%;
 	margin:  0;
