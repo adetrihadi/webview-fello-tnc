@@ -359,7 +359,7 @@ a {text-decoration: none;}
 
 .content .content-tnc .tnc-list ol,
 .content .content-pap .pap-list ol {
-	margin-left: 2.6%;
+	margin-left: 0;
 	position: relative;
 	left: 0;
 }
